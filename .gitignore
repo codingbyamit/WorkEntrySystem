@@ -1,0 +1,9 @@
+node_modules
+Tablas.mdb
+Tablas.ldb
+database.mdb
+database.ldb
+database_Backup.mdb
+dist
+backend/public
+
